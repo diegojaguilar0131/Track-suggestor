@@ -1,0 +1,18 @@
+h1 {
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  font-style: italic;
+}
+body {
+    background-image: url ("../img/codewallpaper.jpg");
+    font-family: "PT Serif",Georgia,serif;
+}
+.name {
+  font-size: bold;
+  color: solid green;
+}
+
+#story {
+  display: none;
+}
